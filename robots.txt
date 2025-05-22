@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://debt-collection-ageny.vercel.app/sitemap.xml
